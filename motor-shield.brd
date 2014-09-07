@@ -2595,7 +2595,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="0.69365" y="48.32835" size="1.016" layer="25" ratio="10"/>
 <attribute name="VALUE" x="10.8951" y="43.2704" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="U$1" library="logo" package="EAGLE-PLC-8MM" value="" x="53.6575" y="17.78" rot="R330"/>
+<element name="U$1" library="logo" package="EAGLE-PLC-8MM" value="" x="50.4825" y="3.33375"/>
 <element name="USE_REG" library="jumper" package="JP1" value="" x="16.8275" y="46.355" smashed="yes">
 <attribute name="NAME" x="18.4785" y="48.26" size="0.6096" layer="25" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="19.7485" y="43.815" size="1.27" layer="27" ratio="10" rot="R90"/>
